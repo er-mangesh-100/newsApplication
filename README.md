@@ -1,6 +1,6 @@
 # News App
 
-![News App Screenshot]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2024-08-17 163927.png")
+![Screenshot 2024-08-17 163927](https://github.com/user-attachments/assets/9994964b-bc87-47ca-b367-dcd7b03116f9)
 
 ## Project Overview
 
