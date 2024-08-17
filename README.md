@@ -1,6 +1,6 @@
 # News App
 
-![Screenshot 2024-08-17 163927](https://github.com/user-attachments/assets/9994964b-bc87-47ca-b367-dcd7b03116f9)
+https://github.com/user-attachments/assets/0752e4f8-de64-4e1e-92eb-c4b7eded5499
 
 ## Project Overview
 
