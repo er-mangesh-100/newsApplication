@@ -24,7 +24,7 @@ The News App is a responsive web application that provides users with the latest
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/er-mangesh-100/news-app.git
 
 2. Open the project directory:
   cd news-app
